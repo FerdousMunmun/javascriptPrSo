@@ -50,7 +50,7 @@ return "Available";
 }
 
 
-// Question 4: Dhaka CNG Fare Meter
+// Question 4: 
 function getCngFare(distance, isNight = false, waitingMinutes = 0) {
 let fare = 50;
 
@@ -68,7 +68,7 @@ return fare;
 }
 
 
-// Question 5: Run Chase Commentator
+// Question 5: 
 const getChaseVerdict = (target, scored, ballsLeft) => {
 const runsNeeded = target - scored;
 
