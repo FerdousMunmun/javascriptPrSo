@@ -50,7 +50,7 @@ return "Available";
 }
 
 
-// Question 4: 
+// Question 4:Dhaka CNG Fare Meter 
 function getCngFare(distance, isNight = false, waitingMinutes = 0) {
 let fare = 50;
 
