@@ -14,7 +14,7 @@ return valueType + " | " + truthValue;
 }
 
 
-// Question 2: Bangladesh Weekend Machine
+// Question 2: 
 function getDayType(day) {
 day = day.toLowerCase();
 
@@ -36,7 +36,7 @@ return "Invalid Day";
 }
 
 
-// Question 3: Username Gatekeeper
+// Question 3: 
 function validateUsername(username) {
 if (username.length < 4) {
 return "Too Short";
