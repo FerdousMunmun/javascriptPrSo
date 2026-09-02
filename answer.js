@@ -14,7 +14,7 @@ return valueType + " | " + truthValue;
 }
 
 
-// Question 2: 
+// Question 2:  Bangladesh Weekend Machine
 function getDayType(day) {
 day = day.toLowerCase();
 
