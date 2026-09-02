@@ -36,7 +36,7 @@ return "Invalid Day";
 }
 
 
-// Question 3: 
+// Question 3:  Username Gatekeeper
 function validateUsername(username) {
 if (username.length < 4) {
 return "Too Short";
